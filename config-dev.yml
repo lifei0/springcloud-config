@@ -1,3 +1,2 @@
 
-server:
-  port: 2244
+config: github config v1
